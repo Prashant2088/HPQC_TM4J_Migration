@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALM_EXTRACT", "ALM_EXTRACT\ALM_EXTRACT.csproj", "{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HPQC", "HPQC\HPQC.vdproj", "{2F47FE68-040E-4E69-B017-C86E49752975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Debug|x86.ActiveCfg = Debug|x86
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Debug|x86.Build.0 = Debug|x86
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Release|x86.ActiveCfg = Release|x86
+		{4BD4A88B-92F8-4A3E-87D9-CAB98E47BC2A}.Release|x86.Build.0 = Release|x86
+		{2F47FE68-040E-4E69-B017-C86E49752975}.Debug|Any CPU.ActiveCfg = Debug
+		{2F47FE68-040E-4E69-B017-C86E49752975}.Debug|x86.ActiveCfg = Debug
+		{2F47FE68-040E-4E69-B017-C86E49752975}.Release|Any CPU.ActiveCfg = Release
+		{2F47FE68-040E-4E69-B017-C86E49752975}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65584E6-D5AA-4E09-81EC-FBD869134FED}
+	EndGlobalSection
+EndGlobal
